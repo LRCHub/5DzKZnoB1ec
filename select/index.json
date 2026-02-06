@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "dead inside (Official Audio)",
+  "base_artist": "blackbear",
+  "createdAt": "2026-02-06T13:07:21.009730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "Arch Enemy",
+      "has_synced": true,
+      "path": "select/01_Dead_Inside_Arch_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/02_Dead_Inside_Muse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dead Inside (Interlude)",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/03_Dead_Inside_(Interlude)_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "Danzig",
+      "has_synced": true,
+      "path": "select/04_Dead_Inside_Danzig.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/05_Dead_Inside_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/06_Dead_Inside_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dead Inside (2009 Version)",
+      "artist": "Arch Enemy",
+      "has_synced": false,
+      "path": "select/07_Dead_Inside_(2009_Version)_Arch_Enemy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/08_Dead_Inside_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dead Inside (Bonus Track)",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/09_Dead_Inside_(Bonus_Track)_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dead Inside (live)",
+      "artist": "Arch Enemy",
+      "has_synced": false,
+      "path": "select/10_Dead_Inside_(live)_Arch_Enemy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "Muse",
+      "has_synced": false,
+      "path": "select/11_Dead_Inside_Muse.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "CF98",
+      "has_synced": true,
+      "path": "select/12_Dead_Inside_CF98.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "Mudvayne",
+      "has_synced": true,
+      "path": "select/13_Dead_Inside_Mudvayne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "Sparzanza",
+      "has_synced": true,
+      "path": "select/14_Dead_Inside_Sparzanza.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dead Inside",
+      "artist": "Through Fire",
+      "has_synced": true,
+      "path": "select/15_Dead_Inside_Through_Fire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dead Inside (live in Japan 1999)",
+      "artist": "Arch Enemy",
+      "has_synced": false,
+      "path": "select/16_Dead_Inside_(live_in_Japan_1999)_Arch_Enemy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "dead inside",
+      "artist": "blackbear",
+      "has_synced": false,
+      "path": "select/pl_01_dead_inside_blackbear.txt"
+    }
+  ]
+}
